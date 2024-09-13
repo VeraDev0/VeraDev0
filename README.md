@@ -1,4 +1,6 @@
-- 👋 Hi, I’m **@VeraDev0**
+**Hello, I'm VeraDev.** I sit on the computer 24/7 (no breaks—well, almost!) coding away. I’m passionate about programming, and I also have autism! (I have social anxiety from autism)
+
+## About Me
 - 👀 I’m interested in **Programming**
 - 🌱 I’m currently learning **C++** & **Reverse Engineering**
 - 📫 Reach me on **Discord**: **@vera_dev**
