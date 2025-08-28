@@ -1,4 +1,4 @@
-<video src="/video.mp4" muted="true" autoplay="true" playsinline="true" loop="true" style="width: 100%; height: auto;"></video>
+<video src="video.mp4" muted autoplay playsinline loop style="width: 100%; height: auto;"></video>
 
 ---
 
