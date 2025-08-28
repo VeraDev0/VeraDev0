@@ -1,10 +1,15 @@
 ![Video](./video.gif)
 
----
-
-<h1 align="center">VeraDev</h1>
+<hr>
+<p align="center" style="font-size: 2rem; font-weight: bold; margin-bottom: 0">VeraDev</p>
+<hr>
 
 I'm a programmer and a Reverse Engineer. I create mods, software, tools, websites and more. I absolutely adore C++ & Lua as they are my favourite's, C++ being most favourite. All of my projects are designed to be quality and performant.
+
+**My projects:**
+- [ScrapComputers](https://scrapcomputers.dev): A Computer mod for Scrap Mechanic designed for performance and quality.
+- sm.regui: A GUI library for Scrap Mechanic. Currently not released
+- VSMX: A advanced Scrap Mechanic SDK for Scrap Mechanic. Currently in development (very slowly)
 
 <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/CONTACT%20VIA%20DISCORD-DISCORD?style=for-the-badge&logo=discord&logoColor=white&color=blue&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1205565279728443483">
