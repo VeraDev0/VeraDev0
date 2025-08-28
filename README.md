@@ -1,4 +1,4 @@
-<video src="video.mp4" muted autoplay playsinline loop style="width: 100%; height: auto;"></video>
+![Video](./video.gif)
 
 ---
 
