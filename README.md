@@ -1,7 +1,7 @@
 ![Video](./video.gif)
 
 <hr>
-<h1 align="center" style="margin-bottom: 0px">VeraDev</h1>
+<h1 align="center" style="margin-top: 0px">VeraDev</h1>
 <br>
 I'm a programmer and a Reverse Engineer. I create mods, software, tools, websites and more. I absolutely adore C++ & Lua as they are my favourite's, C++ being most favourite. All of my projects are designed to be quality and performant.
 
