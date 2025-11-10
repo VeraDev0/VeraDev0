@@ -6,7 +6,7 @@ I'm a programmer and a Reverse Engineer. I create mods, software, tools, website
 
 ### My Projects:
 - [ScrapComputers](https://scrapcomputers.dev): A Computer mod for Scrap Mechanic designed for performance and quality.
-- sm.regui: A GUI library for Scrap Mechanic. Currently not released
+- [sm.regui](https://github.com/ReDoIngMods/sm.regui/tree/main): A Community-Based GUI Library for Scrap Mechanic that allows modders to be able to create graphical user interfaces that were not possible before.
 - [VSMX](https://github.com/Project-VSMX): A advanced Scrap Mechanic SDK for Scrap Mechanic. Currently in development (very slowly)
 
 <p align="center">
