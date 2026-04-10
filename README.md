@@ -51,6 +51,10 @@
             <td><a href="https://github.com/VeraDev0/SM-NoAutoSmartPhysics">SM-NoAutoSmartPhysics</a></td>
             <td>DLL mod preventing automatic Smart Physics switching under load</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/ReDoIngMods/SM-ModTempDataSupport">SM-ModTempDataSupport</a></td>
+            <td>DLL mod enabling writes to <code>$TEMP_DATA</code> with automatic cleanup on game shutdown</td>
+        </tr>
     </tbody>
 </table>
 
@@ -82,15 +86,6 @@
         </tr>
     </tbody>
 </table>
-
----
-
-## Stats
-
-<p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=VeraDev0&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeraDev0&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
 
 ---
 
