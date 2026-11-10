@@ -45,11 +45,11 @@
         </tr>
         <tr>
             <td><a href="https://github.com/ReDoIngMods/SM-NoFileExistError">SM-NoFileExistsError</a></td>
-            <td>DLL mod that silences the "Unable to replace key for path" error.</td>
+            <td>DLL mod that silences the "Unable to replace key for path" error. (No longer Maintained)</td>
         </tr>
         <tr>
             <td><a href="https://github.com/VeraDev0/SM-NoAutoSmartPhysics">SM-NoAutoSmartPhysics</a></td>
-            <td>DLL mod preventing automatic Smart Physics switching under load.</td>
+            <td>DLL mod preventing automatic Smart Physics switching under load. (No longer Maintained)</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ReDoIngMods/SM-ModTempDataSupport">SM-ModTempDataSupport</a></td>
@@ -58,6 +58,14 @@
         <tr>
             <td><a href="https://github.com/ReDoIngMods/SM-DofileFix">SM-DofileFix</a></td>
             <td>DLL mod that disables the "Can't 'dofile' from a non root call site." error, re-allowing old game class hooking.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ReDoIngMods/SM-ChunknameFix">SM-ChunknameFix</a></td>
+            <td>DLL mod that fixes the chunkname's being reported incorrectly for Scrap Mechanic Drilling Thunder</td>
+        </tr>
+		<tr>
+            <td><a href="https://github.com/ReDoIngMods/SM-EnableJIT">SM-EnableJIT</a></td>
+            <td>DLL mod that enables JIT compilation for Scrap Mechanic 0.4 and above.</td>
         </tr>
     </tbody>
 </table>
